@@ -15,7 +15,7 @@ The most important indicators are: Name of the Volcano, Country, Configuration o
 - <b>Microsoft Power BI</b>
 
 <h2>Data transformation and Data preparation:</h2>   
-Data was taken from Kaggel profiles with data available for use, in csv files
+Data was taken from Kaggel profiles with data available for use, in csv files,
 Power Bi and Power Query were used for data cleaning
 <p align="center">
 Uncleaned Data: <br/>
@@ -31,7 +31,7 @@ Last Eruptions Query using CASE: <br/>
 <br />
 <br />
 
-You can see the SQL Querys **[HERE](https://github.com/Roberto121c/Sales_Management/tree/main/Query)**:
+If you want to see all the SQL Queries, click **[HERE](https://github.com/Roberto121c/Sales_Management/tree/main/Query)**:
 
 <h2>Data Vizualization</h2>  
 
