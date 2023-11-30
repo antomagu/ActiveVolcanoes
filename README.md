@@ -31,9 +31,9 @@ Last Eruptions Query using CASE: <br/>
 <br />
 <br />
 
-If you want to see all the SQL Queries, click **[HERE](https://github.com/Roberto121c/Sales_Management/tree/main/Query)**:
+If you want to see all the SQL Queries, click **[HERE](https://github.com/antomagu/ActiveVolcanosQuerys/tree/main)**:
 
-<h2>Data Vizualization</h2>  
+<h2>Data Vizualization</h2>   
 
 Dashboard <br/> 
 <img src="https://i.imgur.com/bwdZmI0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
