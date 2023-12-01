@@ -27,14 +27,16 @@ Clean Data:  <br/>
 <br />
 <br />
 Last Eruptions Query using CASE: <br/> 
+<p align="center">
 <img src="https://i.imgur.com/DRHD0Nw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 If you want to see all the SQL Queries, click **[HERE](https://github.com/antomagu/ActiveVolcanosQuerys/tree/main)**:
 
-<h2>Data Vizualization</h2>   
+<h2>Data Vizualization</h2>  
 
+<p align="center">
 Dashboard <br/> 
 <img src="https://i.imgur.com/bwdZmI0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
