@@ -49,6 +49,8 @@ Dashboard <br/>
 - <b>Russia is the country with the most volcanoes in Europe followed by Iceland</b>
 
 - <b>Indonesia and Japan are those that concentrate the largest amount in Asia</b>
+
+- <b>Taiwan has the largest number of population within 5 km 5,084,149.0000<b>
  
 - <b>In Latin America Chile is the country with the most volcanoes followed by Mexico</b>
 
