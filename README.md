@@ -39,9 +39,11 @@ If you want to see all the SQL Queries, click **[HERE](https://github.com/antoma
 <p align="center">
 Dashboard <br/> 
 <img src="https://i.imgur.com/bwdZmI0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+<br /> 
 
+ You can see the final dashboard clicking **[HERE](https://app.powerbi.com/groups/me/reports/d83d4bc9-b4ad-4408-96c9-8f61b6418f02?ctid=48fe72ba-f2bf-4b24-a90b-0f8762e3215a&pbi_source=linkShare
+ )** 
+ 
 <h2>Conclusions</h2>  
 
 - <b>The United States is the country with the most active volcanoes in the world</b> 
