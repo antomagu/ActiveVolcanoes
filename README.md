@@ -19,7 +19,7 @@ Data was taken from Kaggel profiles with data available for use, in csv files,
 Power Bi and Power Query were used for data cleaning
 <p align="center">
 Uncleaned Data: <br/>
-<img src="https://i.imgur.com/bYmgyxd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/d7tT3LK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Clean Data:  <br/>  
