@@ -23,7 +23,7 @@ Uncleaned Data: <br/>
 <br />
 <br />
 Clean Data:  <br/>  
-<img src="https://i.imgur.com/BJ1rPCZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/PYid8NE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Last Eruptions Query using CASE: <br/> 
