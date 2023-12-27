@@ -1,18 +1,18 @@
 <h1>Active Volcanoes </h1>
 
-<h2>Description</h2>
-The project consists of an interactive dashboard that is simple to use and easy to understand, guiding the user to locate any volcano by country, showing its name, its location on a global map and giving us its tectonic configurations.
-<br />
+|  |  | |
+| ----------- | ----------- | ----------|
+| <b>Industry focus  </b> | - <b>Geology </b> |  |
+|<b> Description  </b>  | - <b>The project consists of an interactive dashboard that is simple to use and easy to understand, guiding the user to locate any volcano by country, showing its name, its location on a global map and giving us its tectonic configurations.</b> | |
+|<b> Objective </b> | - <b>The objective is to create an interactive board with information about the active volcanoes in the world by country, showing their location on a map, characteristics of the technical plate and last recorded eruption. </b> |  |
+|<b> Tools used  </b> | - <b>MySQL</b> - <b>Microsoft Power BI</b>|  |
+|<b> Deliverables </b>  | - <b>An informational dashboard describing your findings and recommendations </b> | |
+|<b> Dataset list </b> |- <b> The data was extracted from Kaggel https://www.kaggle.com/datasets/jessemostipak/volcano-eruptions/versions/1</b>|  |
+|<b>Important indicators  </b>  | - <b>Name of the Volcano</b>  - <b>Country</b>  - <b> Configuration of the Tectonic Plate</b>  - <b>Number of Volcanoes</b>  | |
 
-### Objectives:
-The objective is to create an interactive board with information about the active volcanoes in the world by country, showing their location on a map, characteristics of the technical plate and last recorded eruption.
 
-The most important indicators are: Name of the Volcano, Country, Configuration of the Tectonic Plate, Number of Volcanoes
+ 
 
-<h2>The tools used were</h2>
-
-- <b>MySQL</b> 
-- <b>Microsoft Power BI</b>
 
 <h2>Data transformation and Data preparation:</h2>   
 Data was taken from Kaggel profiles with data available for use, in csv files,
