@@ -19,18 +19,19 @@ Data was taken from Kaggel profiles with data available for use, in csv files,
 Power Bi and Power Query were used for data cleaning
 <p align="center">
 Uncleaned Data: <br/>
-<img src="https://imgur.com/d7tT3LK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Clean Data:  <br/>  
-<img src="https://imgur.com/PYid8NE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Last Eruptions Query using CASE: <br/> 
+
+![Captura de pantalla 2023-11-16 142216](https://github.com/antomagu/ActiveVolcanoes/assets/152213287/f94364a1-6b15-4247-9b1c-a93c3292b05e.png)
+
 <p align="center">
-<img src="https://i.imgur.com/DRHD0Nw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+Clean Data:  <br/>  
+
+![Datos limpios](https://github.com/antomagu/ActiveVolcanoes/assets/152213287/e9d13947-605a-4d88-9bb5-5d9258d89343.png)
+
+<p align="center">
+Last Eruptions Query using CASE: <br/> 
+
+![Case Funtion SQL](https://github.com/antomagu/ActiveVolcanoes/assets/152213287/e444c13b-fcf5-4c45-85d1-6f3f2784d64f.png)
+
 
 If you want to see all the SQL Queries, click **[HERE](https://github.com/antomagu/ActiveVolcanosQuerys/tree/main)**:
 
@@ -38,8 +39,9 @@ If you want to see all the SQL Queries, click **[HERE](https://github.com/antoma
 
 <p align="center">
 Dashboard <br/> 
-<img src="https://i.imgur.com/bwdZmI0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /> 
+
+![final dashboard](https://github.com/antomagu/ActiveVolcanoes/assets/152213287/de4182be-bf81-4f1b-a8ce-67d443ae04d0.png)
+
 
  You can see the final dashboard clicking **[HERE](https://app.powerbi.com/groups/me/reports/d83d4bc9-b4ad-4408-96c9-8f61b6418f02?ctid=48fe72ba-f2bf-4b24-a90b-0f8762e3215a&pbi_source=linkShare
  )** 
