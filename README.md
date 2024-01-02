@@ -17,6 +17,7 @@
 <h2>Data transformation and Data preparation:</h2>   
 Data was taken from Kaggel profiles with data available for use, in csv files,
 Power Bi and Power Query were used for data cleaning
+
 <p align="center">
 Uncleaned Data: <br/>
 
