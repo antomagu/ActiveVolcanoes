@@ -34,7 +34,7 @@ Last Eruptions Query using CASE: <br/>
 ![Case Funtion SQL](https://github.com/antomagu/ActiveVolcanoes/assets/152213287/e444c13b-fcf5-4c45-85d1-6f3f2784d64f.png)
 
 
-If you want to see all the SQL Queries, click **[HERE](https://github.com/antomagu/ActiveVolcanosQuerys/tree/main)**:
+If you want to see all the SQL Queries, click **[HERE](https://github.com/antomagu/ActiveVolcanoes/blob/main/Queries.sql)**:
 
 <h2>Data Vizualization</h2>  
 
