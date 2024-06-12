@@ -1,7 +1,7 @@
 use volcanoes;
 
 select *
-from volcano1
+from volcano
 limit 1000;
 
 SELECT concat_ws("-",end_day, end_month, end_year) AS 'end_date'
@@ -24,11 +24,11 @@ Join events e on e.volcano_name = er.volcano_name;
 
 #Volcano Query
 SELECT *
-FROM volcano1
+FROM volcano
 order by  country;
 
 Select volcano_name, primary_volcano_type, last_eruption_year, country, latitude, longitude, elevation, tectonic_settings
-from volcano1
+from volcano
 where last_eruption_year > 1000
 order by last_eruption_year;
 
@@ -39,15 +39,15 @@ CASE
     WHEN last_eruption_year < 1000 THEN 'AC'
     ELSE 'Eruptions AC and BC'
 END AS 'Eruptions in our era and ancient age' 
-FROM volcano1
+FROM volcano
 ORDER BY last_eruption_year;
 
 SELECT country, round(avg(population_within_5_km),2) as population
-FROM volcano1
+FROM volcano
 group by country
 having population >100000;
 
 Select country, FORMAT(sum(volcano_number),'de_DE') as volcano_num
-from volcano1
+from volcano
 group by country
 order by volcano_num desc;
